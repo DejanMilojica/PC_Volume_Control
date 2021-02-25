@@ -1,2 +1,3 @@
 # PC_Volume_Control
-Create background process that automatically control sound volume on PC, with linear scale control
+JScript windows shell, when it runs, create background process that automatically 
+control sound volume on PC, with linear scale control
